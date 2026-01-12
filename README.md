@@ -1,6 +1,6 @@
 # Loan Request Application
 
-A simple React-based web application for submitting loan requests. Built with Vite for fast development and optimized builds.
+A simple web application **built with React** for submitting loan requests. Built with Vite for fast development and optimized builds.
 
 ## Features
 
@@ -20,7 +20,7 @@ A simple React-based web application for submitting loan requests. Built with Vi
 1. Clone the repository:
    ```bash
    git clone <repository-url>
-   cd vite-project
+   cd "Loan Request-ReactProject"
    ```
 
 2. Install dependencies:
@@ -58,10 +58,11 @@ A simple React-based web application for submitting loan requests. Built with Vi
 ## Project Structure
 
 ```
-src/
-├── App.jsx          # Main application component
-├── InputField.jsx   # Reusable input component
-├── ModalMessage.jsx # Modal component for notifications
-├── main.jsx         # Application entry point
-└── assets/          # Static assets
+├── App.css
+├── App.jsx
+├── index.css
+├── InputField.jsx
+├── ModalMessage.jsx
+├── main.jsx
+└── assets/
 ```
